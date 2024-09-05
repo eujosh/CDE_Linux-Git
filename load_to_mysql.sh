@@ -8,7 +8,7 @@ DB_HOST="localhost"
 DB_PORT="3306"
 
 # CSV Files Directory
-CSV_DIR="csv_files"
+CSV_DIR="Gold"
 
 # Iterate over each CSV file and load it into MySQL database
 for file in $CSV_DIR/*.csv; do
