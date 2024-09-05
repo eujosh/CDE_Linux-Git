@@ -7,8 +7,8 @@ This repository contains the scripts and SQL queries used in managing and proces
 ### Directory Structure
 
 - **Scripts**
-  - **bash/**: Contains all Bash scripts for the ETL process, moving files, and loading data into PostgreSQL.
-  - **sql/**: Contains SQL scripts for answering the business questions posed by the manager.
+  - **bash**: Contains all Bash scripts for the ETL process, moving files, and loading data into PostgreSQL.
+  - **sql**: Contains SQL scripts for answering the business questions posed by the manager.
 
 ### Requirements
 
