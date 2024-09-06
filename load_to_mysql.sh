@@ -38,4 +38,3 @@ for file in $CSV_DIR/*.csv; do
     echo "Failed to load data from $file into $table_name table."
   fi
 done
-
